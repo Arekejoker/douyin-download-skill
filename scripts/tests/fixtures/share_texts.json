@@ -1,0 +1,8 @@
+[
+  {"input": "7.43 复制打开抖音，看看【小猫】的作品  https://v.douyin.com/iRNBho6/ 12/25", "kind": "url", "url_contains": "v.douyin.com/iRNBho6"},
+  {"input": "https://v.douyin.com/ABCdef-123/", "kind": "url", "url_contains": "v.douyin.com/ABCdef-123"},
+  {"input": "https://www.douyin.com/video/7412345678901234567", "kind": "url", "url_contains": "douyin.com/video"},
+  {"input": "7412345678901234567", "kind": "id"},
+  {"input": "看看这个 v.douyin.com/xyz789 好好笑", "kind": "url", "url_contains": "v.douyin.com/xyz789"},
+  {"input": "随便一段没有链接的话", "kind": null}
+]

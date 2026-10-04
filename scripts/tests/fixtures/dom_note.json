@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "ready": "complete",
+  "href": "https://www.douyin.com/note/7412345678901234567",
+  "title": "泪水打湿小猫粮，咪我要做小猫王#猫眼睛睁不开 - 抖音",
+  "desc": "泪水打湿小猫粮，咪我要做小猫王 #猫眼睛睁不开",
+  "author": "小猫日记",
+  "published": "2026-08-01 12:30",
+  "stats": {"like": "12.3万", "comment": "3456", "collect": "7890", "share": "1234"},
+  "music": "小猫圆舞曲 - 猫猫乐队",
+  "imgs": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-0813/abc~tplv-dy-cropcenter:300:400:5:5.webp?biz_tag=post&x-expires=9999999999&x-signature=AAA",
+    "https://p3-sign.douyinpic.com/tos-cn-i-0813/def~tplv-dy-aweme-images:q75.webp?x-expires=1&x-signature=BBB"
+  ],
+  "video": "https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000abc&aid=6383&ratio=1080p&line=0",
+  "audio": "https://sf3-ies-music-hj.douyinpic.com/xxx.mp3",
+  "cover": "https://p3-sign.douyinpic.com/obj/cover~tplv-dy-aweme-images:q75.webp?x=1",
+  "poster": "",
+  "bodyLen": 2000,
+  "bodySample": "小猫日记 发布时间：2026-08-01 12:30"
+}

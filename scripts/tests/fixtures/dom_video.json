@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "ready": "complete",
+  "href": "https://www.douyin.com/video/7412345678901234567",
+  "title": "海边的日落 - 抖音",
+  "desc": "海边的日落 #旅行",
+  "author": "旅行者",
+  "published": "",
+  "stats": {"like": "100", "comment": "2", "collect": "3", "share": "1"},
+  "music": "夏日 - 某乐队",
+  "imgs": [],
+  "video": "https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000xyz&aid=6383&ratio=720p&line=0",
+  "audio": "",
+  "cover": "https://p3-sign.douyinpic.com/obj/c~tplv-dy-aweme-images:q75.webp?x=1",
+  "poster": "",
+  "bodyLen": 900,
+  "bodySample": ""
+}

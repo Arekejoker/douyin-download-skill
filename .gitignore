@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+dy_*_manifest.json
+dy_*.mp4
+dy_*.webp
+dy_*.jpeg
+dy_*.mp3

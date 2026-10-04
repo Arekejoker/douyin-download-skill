@@ -1,0 +1,18 @@
+{
+  "desc": "API 测试作品 #测试",
+  "author": {"nickname": "API作者"},
+  "create_time": 1750000000,
+  "statistics": {"digg_count": 100, "comment_count": 5, "collect_count": 6, "share_count": 7},
+  "images": [
+    {"url_list": ["https://img.example/1.jpeg", "https://img.example/1b.jpeg"]}
+  ],
+  "video": {
+    "play_addr": {"url_list": ["https://v.example/playwm/?video_id=v1&aid=6383"]},
+    "cover": {"url_list": ["https://img.example/cover.jpeg"]}
+  },
+  "music": {
+    "title": "曲",
+    "author": "作者",
+    "play_url": {"url_list": ["https://m.example/bgm.mp3"]}
+  }
+}
